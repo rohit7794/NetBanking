@@ -12,5 +12,13 @@ public class MiniStatement {
 		
 		
 	}
+	public static void currentAccount() {
+		
+		System.out.println("this account by rohit");
+		if(true) {
+			
+			System.out.println("if else statement");
+		}
+	}
 
 }
