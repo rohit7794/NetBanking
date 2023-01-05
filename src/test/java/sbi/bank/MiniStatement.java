@@ -9,7 +9,7 @@ public class MiniStatement {
 	public static void miniStatement() {
 		
 		System.out.println("first 5 transcation by rohit");
-		
+		System.out.println("2nd line by triveni");
 		
 	}
 
